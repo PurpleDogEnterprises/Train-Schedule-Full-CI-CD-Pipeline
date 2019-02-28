@@ -1,1 +1,3 @@
 adminPassword: password
+
+# would never store for production, only used for quick testing
